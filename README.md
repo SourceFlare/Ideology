@@ -1,5 +1,5 @@
 # Our Ideology
-This document serves as a definition of what SourceFlare is, and who it's members are, and what we want to achieve; a core set of beliefs, principles, and objectives, for SourceFlare (and its members) to implement.
+This document serves as a definition of what SourceFlare is, who it's members are, and what we want to achieve; a core set of beliefs, principles, and objectives, for SourceFlare (and its members) to implement.
 
 ### Core Principles
     1) Open Source, Always
